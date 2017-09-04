@@ -31,6 +31,9 @@ p {
   font-family: "times new roman";
   font-size: 14px;
 }
-img.container-fluid {
-  marginf: auto;
+
+.panel-body {
+  background-color: silver;
+  border: 2px solid crimson;
+  border-radius: 5px;
 }
