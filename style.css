@@ -30,10 +30,19 @@ p {
   color: crimson;
   font-family: "times new roman";
   font-size: 14px;
+
 }
 
 .panel-body {
-  background-color: silver;
+  background-color: #999b9b;
   border: 2px solid crimson;
   border-radius: 5px;
+}
+
+#other {
+  width: 540px;
+  height: 130px;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-left: 10px;
 }
