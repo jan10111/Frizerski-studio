@@ -27,7 +27,7 @@ h2 {
 }
 
 p {
-  color: crimson;
+  color: black;
   font-family: "times new roman";
   font-size: 14px;
 
@@ -37,7 +37,9 @@ p {
   background-color: #999b9b;
   border: 2px solid crimson;
   border-radius: 5px;
+  margin-bottom: 30px;
 }
+
 
 #other {
   width: 540px;
@@ -56,10 +58,31 @@ p {
     width: 40%;
     border: 2px solid black;
     border-radius: 5px;
-    margin-bottom: 40px;
+    margin-bottom: 70px;
 }
 
 .nabar {
   font-family: "impact";
   color: crimson;
+}
+
+.info {
+  font-family: impact;
+  text-align-last: left;
+}
+
+.pandapic {
+  margin: auto;
+    width: 50%;
+    display: block;
+}
+
+.menu {
+  color: crimson;
+  text-align-last: center;
+  font-family: impact;
+}
+
+.botbar {
+  color: black;
 }
